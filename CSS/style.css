@@ -1,0 +1,187 @@
+P {
+
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color:#c47575;
+    align-items: flex-start;
+}
+section {
+    min-height: 100vh;
+    padding-top: 100px;
+}
+
+
+
+
+
+
+
+.kotakBiru{
+    width: 200px;
+    height: 200px;
+    background-color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    flex-direction: row;
+} 
+
+.kotakKuning{
+    width: 40px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakHijau{
+    width: 200px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakBebas{
+    width: 40px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakMerah{
+    width: 190px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakPink{
+    width: 40px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakUngu{
+    width: 50px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakAbu{
+    width: 40px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakCoklat{
+    width: 90px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakPutih{
+    width: 150px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakHitam{
+    width: 60px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakOren{
+    width: 30px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakBiruMuda{
+    width: 60px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakBiruTua{
+    width: 30px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.kotakHijauMuda{
+    width: 60px;
+    height: 50px;
+    background-color: palevioletred;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: black;
+    line-height: 1.5;
+}
+.garis-panjang {
+    display: inline-block;
+    border-bottom: 3x solid black;
+    padding-bottom: 5px;
+    width: 100%;
+}
+
